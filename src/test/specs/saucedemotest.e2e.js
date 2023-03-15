@@ -1,5 +1,6 @@
 // import LoginPage from '../pageobjects/login.page';
 // import SecurePage from '../pageobjects/secure.page';
+//Commenting to demonstrate for Github cloning the code by swathi 
 
 import { menu } from "../instances/components";
 import { loginPage, productsPage } from "../instances/pages"
